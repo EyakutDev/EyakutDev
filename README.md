@@ -22,12 +22,12 @@
 | --- | --- | --- |
 | [**Tomar**](https://github.com/EyakutDev/tomar) · [live](https://tomar.169-58-194-231.sslip.io/) | API + database + web interface | Fastify · PostgreSQL · Docker |
 | [**Küçük Konuşma**](https://github.com/EyakutDev/kucuk-konusma) · [live](https://kucukkonusma.169-58-194-231.sslip.io) | Real-time server + database + web | Node.js · Socket.IO · PostgreSQL |
-| [**Sosyo-Bel**](https://github.com/EyakutDev/sosyo-bel) | API + database + mobile app | ASP.NET Core · SQL Server · Flutter |
+| [**Sosyo-Bel**](https://github.com/EyakutDev/sosyo-bel) | API + database + mobile app, KPS identity check | ASP.NET Core · SQL Server · Flutter |
 | [**Paydaş**](https://github.com/EyakutDev/paydas_repo) | Backend: data model + services (team) | Firebase · Flutter |
 
 ### `GET /skills`
 
-`Go` · `ASP.NET Core (C#)` · `Node.js` · `REST API` · `Socket.IO` · `PostgreSQL` · `SQL Server` · `Docker` · `Flutter`
+`Go` · `ASP.NET Core (C#)` · `Node.js` · `REST API` · `Socket.IO` · `PostgreSQL` · `SQL Server` · `Firebase` · `Docker` · `Flutter`
 
 ### `GET /cv`
 
